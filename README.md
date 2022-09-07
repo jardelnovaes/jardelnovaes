@@ -7,12 +7,13 @@ Since then I've been working as System Analyst, Business Analyst,  Tech Leader, 
    
 #### 👨‍💻 Social  
    
-![Twitter Follow: jardelnovaes](https://img.shields.io/badge/-Twitter-1d9bf0?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/jardelnovaes)
-![Linkedin: jardelnovaes](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jardelnovaes/en
-)
-![Stackoverflow: jardelnovaes](
+[![Twitter Follow: jardelnovaes](https://img.shields.io/badge/-Twitter-1d9bf0?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/jardelnovaes)](https://twitter.com/jardelnovaes)
+[![Linkedin: jardelnovaes](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jardelnovaes/en
+)](https://www.linkedin.com/in/jardelnovaes/en)
+[![Stackoverflow: jardelnovaes](
 https://img.shields.io/badge/-Stackoverflow-f48225?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/6575847/jardel-novaes
-)
+)](https://stackoverflow.com/users/6575847/jardel-novaes)
+   
 
 ### 💻 Technologies
 
