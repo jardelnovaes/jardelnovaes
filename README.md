@@ -19,7 +19,7 @@ https://img.shields.io/badge/-Stackoverflow-f48225?style=flat-square&logo=Stacko
 
 Some technologies that I work with:
 
-![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=Windows&logoColor=white)
+[![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=Windows&logoColor=white)](https://github.com/jardelnovaes)
 ![Linux](https://img.shields.io/badge/-Linux-e95422?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-d8e1e8?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-5580a1?style=flat-square&logo=amazon)
