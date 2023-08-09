@@ -3,6 +3,8 @@
 I'm Jardel Novaes, I've been programing for fun since 1997 and working with tech professionally since 2003.
 
 Since then I've been working as System Analyst, Business Analyst,  Tech Leader, Software Architect and Software Engineer depending on the the companies needs where I worked with.
+
+I've been working on private projects and unfortunately those contributions are classified and not public.
    
    
 #### 👨‍💻 Social  
